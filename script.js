@@ -75,7 +75,7 @@ $(document).ready(function() {
             // merge together and put on page
             $("#forecast").append(timeEl, humidEl, tempEl);
             
-            console.log(data);
+        
             
           }
         }
